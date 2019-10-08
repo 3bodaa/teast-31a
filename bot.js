@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("TG Master");
+console.log("3bodaa");
 var prefix = "#";
 client.on("message", message => {
 
@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`USE CODE 3bodaa`,"http://twitch.tv/DeathShop")
+client.user.setGame(`USE CODE LG-MOSTAFA`,"http://twitch.tv/DeathShop")
 client.user.setStatus("dnd")
 });
 
